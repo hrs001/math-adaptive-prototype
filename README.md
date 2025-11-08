@@ -8,6 +8,6 @@ Structure:
 - src/tracker.py
 - src/adaptive_engine.py
 
-Github Link - 
+Github Link - https://github.com/hrs001/math-adaptive-prototype
 
 To run (interactive): `python3 src/main.py`
